@@ -1,3 +1,11 @@
+<div align="center">
+
+![GitHub repo size](https://img.shields.io/github/repo-size/LeHaGiaBao/Time-Calculator?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GitHub forks](https://img.shields.io/github/forks/LeHaGiaBao/Time-Calculator?style=for-the-badge)
+
+</div>
+
 ### Assignment
 
 Write a function named `add_time` that takes in two required parameters and one optional parameter:
